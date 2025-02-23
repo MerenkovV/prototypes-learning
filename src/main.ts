@@ -3,6 +3,8 @@ import { setupCounter } from "./counter.ts";
 
 document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
   <div>
+  
+
     <h1>Proto lesson</h1>
     
     <div class="card">
